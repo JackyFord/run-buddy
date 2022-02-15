@@ -226,6 +226,22 @@ header nav ul li a {
     color: white;
 }
 
+.contact-info h3 {
+    color: #fce138;
+    font-size: 32px;
+}
+
+.contact-info p, .contact-info address {
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20x;
+    font-style: normal;
+}
+
+.contact-info a {
+    color: #fce138;
+}
+
 body {
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
