@@ -8,7 +8,7 @@ A website that offers fitness training services
 * CSS
 
 ## Website
-https://jackyford.github.io/run-buddy/
+https://saintshay.github.io/run-buddy/
 
 ## Contribution
 Made with :heart: by Jack Ford
